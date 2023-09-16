@@ -1,0 +1,16 @@
+{
+    "name": "Moon cat 🚺",
+    "description": "collection today.. Also, they are coming from https://github.com/uchihashahin01",
+    "image": "https://imageupload.io/ib/86ctYcOUMZnddf0_1694871698.jpg",
+    "external_url": "https://github.com/uchihashahin01",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "Cat"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
